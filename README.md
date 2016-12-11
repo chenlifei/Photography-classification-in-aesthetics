@@ -12,7 +12,7 @@ url: https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view
 
 dataset url: https://drive.google.com/open?id=0B4IRvXQLN6BtTkN3YW9BSDgxUXM
 
-1. dataset.zip is used for color histogram and VGG: dataset.zip
+1. dataset.zip is used for color histogram and VGG
 
 2. dataset4.zip is used for triplet loss
 
